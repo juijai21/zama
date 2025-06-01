@@ -1,1 +1,1 @@
-# zama
+# Project Helper CLI
